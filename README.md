@@ -7,11 +7,11 @@ something.
 
 ## Playbooks
 
-### 001. Turn a Website Into a Promotional Video
+### Video and Motion
 
-Create branded, localized promotional videos with Codex and HyperFrames.
+- [001 — Website to Video](tips/001-website-to-video.md)
 
-[Open the playbook](tips/001-website-to-video.md)
+  Create branded promotional videos with Codex and HyperFrames.
 
 ## Using the Playbooks
 
