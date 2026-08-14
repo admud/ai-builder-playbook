@@ -13,6 +13,13 @@ something.
 
   Create branded promotional videos with Codex and HyperFrames.
 
+### Images and Portraits
+
+- [002 — Cinematic Backlight Portraits](tips/002-cinematic-backlight-portraits.md)
+
+  Create three reference-guided editorial portraits with a consistent
+  backlight treatment.
+
 ## Using the Playbooks
 
 1. Open a playbook.
