@@ -288,21 +288,3 @@ retime scenes and the CTA to the localized speech. Do not modify the original
 project. Before using an external speech service, state exactly what will be
 transmitted and obtain approval.
 ```
-
-## Final Acceptance Checklist
-
-Before calling a project complete, confirm:
-
-- The source website was captured and its real brand assets were used.
-- `DESIGN.md`, `SCRIPT.md`, and `STORYBOARD.md` exist.
-- Every scene has a clear purpose and readable hero frame.
-- Transitions connect all scenes without empty or abrupt frames.
-- No unintended text, image, card, or caption overlaps remain.
-- Text contrast and safe margins pass inspection.
-- Narration is natural, audible, and synchronized.
-- Localized narration uses the requested language and dialect.
-- Brand names and technical terms are pronounced correctly.
-- The original project remains unchanged when variants are created.
-- Approved renders are not overwritten.
-- The final MP4 has the requested dimensions, frame rate, codecs, and duration.
-- Both preview and download links are available.

@@ -87,23 +87,3 @@ Camera: medium close-up portrait, vertical 4:5 Instagram aspect ratio, shallow d
 Style: ultra-realistic, cinematic, moody, luxury portrait, minimal studio, dramatic shadows, premium lifestyle photography.
 ```
 
-## Review Checklist
-
-- [ ] The subject is recognizably the same person as the reference
-- [ ] Face shape, hairline, hairstyle, facial hair, age, and skin tone match
-- [ ] Skin retains pores and natural texture instead of looking airbrushed
-- [ ] Eyes, teeth, ears, fingers, and rings are anatomically believable
-- [ ] The backlight creates a rim without erasing the entire face
-- [ ] The sweater and trousers contain no invented logos or text
-- [ ] The composition is truly vertical 4:5 with useful crop space
-- [ ] All three images share the same warm-neutral editorial grade
-
-## What I Learned
-
-- Describing identity, pose, wardrobe, light, camera, and style separately gives
-  the model fewer opportunities to reinterpret the brief.
-- A consistent outfit palette and backlight language can make separately
-  generated images feel like one editorial series.
-- Identity preservation should be checked visually; repeating “exact” in a
-  prompt cannot guarantee a faithful result.
-
