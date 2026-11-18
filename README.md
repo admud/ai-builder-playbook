@@ -20,6 +20,16 @@ something.
   Create three reference-guided editorial portraits with a consistent
   backlight treatment.
 
+### Agentic Coding
+
+- [003 — Verify an Agent-Built Change](tips/003-agentic-coding-verification.md)
+
+  Define done, exercise the change, and attach commit-specific evidence.
+
+- [Agentic Coding Reference Log](references/agentic-coding.md)
+
+  Track useful sources and trials separately from adopted practices.
+
 ## Using the Playbooks
 
 1. Open a playbook.
